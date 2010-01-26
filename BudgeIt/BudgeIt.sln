@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgeIt", "BudgeIt\BudgeIt.csproj", "{F17BD874-35BA-42EA-979B-3EB9274E8EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specs", "Specs\Specs.csproj", "{B433DD8B-72AD-43EB-B242-392E095C5DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17BD874-35BA-42EA-979B-3EB9274E8EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17BD874-35BA-42EA-979B-3EB9274E8EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17BD874-35BA-42EA-979B-3EB9274E8EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17BD874-35BA-42EA-979B-3EB9274E8EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B433DD8B-72AD-43EB-B242-392E095C5DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B433DD8B-72AD-43EB-B242-392E095C5DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B433DD8B-72AD-43EB-B242-392E095C5DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B433DD8B-72AD-43EB-B242-392E095C5DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
